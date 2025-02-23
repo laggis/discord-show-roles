@@ -8,7 +8,7 @@ intents.members = True
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
-CHANNEL_ID = 1262319092975800380
+CHANNEL_ID = Your_Channel_id
 
 @bot.event
 async def on_ready():
